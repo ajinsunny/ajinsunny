@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a Software Engineer with a background in Electrical Engineering. I am passionate about solving complex problems using code. 
+
+I am currently working on some personal projects while actively seeking full-time Software Engineering (SWE) roles. I am proficient in data structures and algorithms and have a good habit of writing clean and documented code.
+
+Programming language expertise: Python and C++
+
 <!--
 **ajinsunny/ajinsunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
