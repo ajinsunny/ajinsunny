@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Software Engineer with a background in Electrical Engineering. I am passionate about solving complex problems using code. 
+I am a Software Developer with a background in Electrical Engineering. I am passionate about solving complex problems using code. 
 
 I am currently working on some personal projects while actively seeking full-time Software Engineering (SWE) roles. I am proficient in data structures and algorithms and have a good habit of writing clean and documented code.
 
