@@ -17,19 +17,21 @@ I love working on complex problems using code. As a software engineer, I am lang
 
 I believe that solving problems require critical thinking and problem-solving skills such as breaking down the fundamentals using a design workflow using UML and Class Diagrams rather than being obsessed with code or the language itself.
 
-## Technical Skills;
- :snake: Python
- :globe_with_meridians: HTML
- 🥃 Flask
- 
-
-HTML / CSS / Python / Tensorflow / OpenCV / JS / Flask / Django
+## Technical Skills
+    - Python
+    - Flask
+    - OpenCV
+    - Tensorflow
+    - HTML
+    - CSS
+    - JavaScript
+    - C++
 
 - :briefcase: I’m currently working on Freelance Development 
 - :link: I’m looking to collaborate on Software Projects 
 - :email: How to reach me: ajin.sunny@gmail.com 
 
-
+[![Ajin's github stats](https://github-readme-stats.vercel.app/api?username=ajinsunny)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ajinsunny)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ajinsunny/)  
 
