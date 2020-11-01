@@ -1,6 +1,6 @@
 ### Hi there 👋, Ajin Sunny
 #### Software Engineering
-![Software Engineering]()
+![Software Engineering](https://github.com/ajinsunny/ajinsunny/blob/master/welcome.jpeg)
 
 I am a Software Developer at a Stealth Startup in the San Francisco Bay Area.
 
