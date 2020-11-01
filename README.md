@@ -3,7 +3,7 @@
 
 # Ajin Sunny
 
-Hi there : slightly_smiling_face :
+Hi there :slightly_smiling_face:
 
 I am Ajin, a Software Developer working at a Stealth Startup in the San Francisco Bay Area.
 
