@@ -1,6 +1,6 @@
 ### Hi there 👋, Ajin Sunny
 #### Software Engineering
-![Software Engineering](https://github.com/ajinsunny/ajinsunny.github.io/blob/master/images/welcome.jpeg)
+![Software Engineering](https://github.com/ajinsunny/ajinsunny.github.io/blob/master/images/coding.jpg)
 
 I am a Software Developer at a Stealth Startup in the San Francisco Bay Area.
 
@@ -16,7 +16,13 @@ I believe that solving problems require critical thinking and problem-solving sk
 
 Skills: HTML / CSS / Python / Tensorflow / OpenCV / JS / Flask / Django
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Freelance Development 
+- 👯 I’m looking to collaborate on Software Projects 
+- 📫 How to reach me: ajin.sunny@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ajinsunny)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ajinsunny/)  
+
 
 
 
