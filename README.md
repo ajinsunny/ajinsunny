@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I am a Software Developer with a background in Electrical Engineering. I am passionate about solving complex problems using code. 
+I am a Software Developer at a Stealth Startup in the San Francisco Bay Area. I have a background in Electrical Engineering with Computer Science and Mathematics. I am proficient in data structures and algorithms and have a good habit of writing clean and documented code. In the past, I have worked as a Software Engineer and Graduate Associate for University of Kentucky. I love working on complex problems using code. As a software engineer, I am language-agnostic, however, I am proficient in Python and C++. I believe that solving problems require critical thinking and problem-solving skills such as breaking down the fundamentals using a software flow or a design workflow rather than being obsessed with code or the language itself. 
 
-I am currently working on some personal projects while actively seeking full-time Software Engineering (SWE) roles. I am proficient in data structures and algorithms and have a good habit of writing clean and documented code.
+During my free time, I work on open source projects and collaborate with other software developers on  Github. My hobbies include running, working out, and bowling. 
 
-Programming language expertise: Python and C++
+Proficient Skills: Python, TensorFlow, OpenCV, C++, JavaScript, HTML5, CSS3, Git, SVN
+
 
 <!--
 **ajinsunny/ajinsunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
