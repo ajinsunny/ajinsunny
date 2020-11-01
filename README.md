@@ -1,20 +1,29 @@
-### Hi there 👋, Ajin Sunny
-#### Software Engineering
 ![Software Engineering](https://github.com/ajinsunny/ajinsunny/blob/master/welcome.jpeg)
 
-I am a Software Developer at a Stealth Startup in the San Francisco Bay Area.
 
- I have a background in Electrical Engineering with Computer Science and Mathematics.
+# Ajin Sunny
+
+Hi there : slightly_smiling_face :
+
+I am Ajin, a Software Developer working at a Stealth Startup in the San Francisco Bay Area.
+
+I have a background in Electrical Engineering with Computer Science and Mathematics.
 
 I am proficient in data structures and algorithms and have a good habit of writing clean and documented code. 
 
 In the past, I have worked as a Software Engineer and Graduate Associate for NASA Kentucky on it's EPSCoR program.
 
- I love working on complex problems using code. As a software engineer, I am language-agnostic, however, I am proficient in Python and C++. 
+I love working on complex problems using code. As a software engineer, I am language-agnostic, however, I am proficient in Python and C++. 
 
 I believe that solving problems require critical thinking and problem-solving skills such as breaking down the fundamentals using a design workflow using UML and Class Diagrams rather than being obsessed with code or the language itself.
 
-Skills: HTML / CSS / Python / Tensorflow / OpenCV / JS / Flask / Django
+## Technical Skills;
+ :snake: Python
+ :globe_with_meridians: HTML
+ 🥃 Flask
+ 
+
+HTML / CSS / Python / Tensorflow / OpenCV / JS / Flask / Django
 
 - :briefcase: I’m currently working on Freelance Development 
 - :link: I’m looking to collaborate on Software Projects 
