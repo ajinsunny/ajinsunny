@@ -27,8 +27,7 @@ I believe that solving problems require critical thinking and problem-solving ac
     - JavaScript
     - C++
 
-- :briefcase: I’m currently working on Freelance Development 
-- :link: I’m looking to collaborate on Software Projects 
+- :briefcase: I’m currently working on Freelance Development  
 - :email: How to reach me: ajin.sunny@gmail.com 
 
 [![Ajin's github stats](https://github-readme-stats.vercel.app/api?username=ajinsunny)](https://github.com/anuraghazra/github-readme-stats)
