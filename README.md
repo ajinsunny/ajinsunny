@@ -47,6 +47,7 @@ During my free time, I work on open source projects and collaborate with other s
 
 Proficient Skills: Python, TensorFlow, OpenCV, C++, JavaScript, HTML5, CSS3, Git, SVN
 
+
 [![Ajin's github stats](https://github-readme-stats.vercel.app/api?username=ajinsunny)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
