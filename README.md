@@ -49,9 +49,9 @@ Proficient Skills: Python, TensorFlow, OpenCV, C++, JavaScript, HTML5, CSS3, Git
 
 
 [![Ajin's github stats](https://github-readme-stats.vercel.app/api?username=ajinsunny)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinsunny&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
--->
 <!--
 **ajinsunny/ajinsunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
