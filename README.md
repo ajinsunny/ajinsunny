@@ -25,6 +25,7 @@ I believe that solving problems require critical thinking and problem-solving ac
     - OpenCV
     - Tensorflow
     - HTML
+    - Mathematics
     - CSS
     
 
