@@ -20,12 +20,13 @@ I believe that solving problems require critical thinking and problem-solving ac
 ## Technical Skills
     - Python
     - Flask
+    - JavaScript
+    - C++
     - OpenCV
     - Tensorflow
     - HTML
     - CSS
-    - JavaScript
-    - C++
+    
 
 - :briefcase: I’m currently working as a Freelance Software Developer  
 - :email: How to reach me: ajin.sunny@gmail.com 
