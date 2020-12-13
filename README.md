@@ -1,4 +1,4 @@
-![Software Engineering](https://github.com/ajinsunny/ajinsunny/blob/master/welcome.jpeg)
+<!-- ![Software Engineering](https://github.com/ajinsunny/ajinsunny/blob/master/welcome.jpeg) -->
 
 [![Ajin's github stats](https://github-readme-stats.vercel.app/api?username=ajinsunny)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinsunny&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
