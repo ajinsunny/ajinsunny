@@ -6,9 +6,7 @@
 
 Hi there :slightly_smiling_face:
 
-I am Ajin, a Software Developer working at a Stealth Startup in the San Francisco Bay Area.
-
-I have a background in Electrical Engineering with Computer Science and Mathematics.
+I am Ajin, a Software Developer working at Outco.
 
 I am proficient in data structures and algorithms and have a good habit of writing clean and documented code. 
 
