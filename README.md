@@ -6,7 +6,7 @@
 
 Hi there :slightly_smiling_face:
 
-I am Ajin, a Software Engineer working at Outco.
+I am Ajin, a Software Engineer working at Outco Inc.
 
 I am proficient in data structures and algorithms and have a good habit of writing clean and documented code. 
 
