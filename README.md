@@ -20,11 +20,10 @@ I believe that solving problems require critical thinking and problem-solving ac
     - Python
     - Flask
     - JavaScript
-    - C++
+    - React
     - OpenCV
     - Tensorflow
     - HTML
-    - Mathematics
     - CSS
     
 
