@@ -10,8 +10,6 @@ I'm a Software Engineer working at Outco Inc.
 
 I am proficient in data structures and algorithms and have a good habit of writing clean and documented code. 
 
-In the past, I have worked as a Software Engineer and Graduate Associate for NASA Kentucky on it's EPSCoR program.
-
 I love working on complex problems using code. As a software engineer, I am language-agnostic, however, I am proficient in Python and C++. 
 
 I believe that solving problems require critical thinking and problem-solving acumen such as breaking down the fundamentals using a design workflow using UML Diagrams and Class Diagrams.
