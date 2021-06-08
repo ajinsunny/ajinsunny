@@ -8,9 +8,7 @@ Hi there :slightly_smiling_face:
 
 I'm a Software Engineer working at Outco Inc.
 
-I am proficient in data structures and algorithms and have a good habit of writing clean and documented code. 
-
-I love working on complex problems using code. As a software engineer, I am language-agnostic, however, I am proficient in Python and C++. 
+Having a good habit of writing clean and documented code, I love working on complex problems using code. As a software engineer, I am language-agnostic, however, I am proficient in Python and C++. 
 
 I believe that solving problems require critical thinking and problem-solving acumen such as breaking down the fundamentals using a design workflow using UML Diagrams and Class Diagrams.
 
