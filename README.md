@@ -23,7 +23,7 @@ I believe that solving problems require critical thinking and problem-solving ac
     - CSS
     
 
-- :briefcase: I’m currently working as a Software Engineer
+
 - :email: How to reach me: ajin.sunny@gmail.com 
 
 
