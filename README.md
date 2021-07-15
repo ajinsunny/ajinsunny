@@ -13,10 +13,10 @@ Having a good habit of writing clean and documented code, I love working on comp
 I believe that solving problems require critical thinking and problem-solving acumen such as breaking down the fundamentals using a design workflow using UML Diagrams and Class Diagrams.
 
 
-    
+<!--     
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinsunny&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinsunny&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 - :email: How to reach me: ajin.sunny@gmail.com 
