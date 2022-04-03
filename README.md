@@ -6,7 +6,7 @@
 
 Hi there :slightly_smiling_face:
 
-I'm a Software Engineer working at Outco Inc.
+I'm a Software Engineer working at MindPetal Software Solutions, prior this I worked at Outco a startup in San Francisco. 
 
 Having a good habit of writing clean and documented code, I love working on complex problems using code. As a software engineer, I am language-agnostic, however, I am proficient in Python and JavaScript. 
 
