@@ -4,13 +4,15 @@
 
 # Ajin Sunny
 
-Hi there :slightly_smiling_face:
+Hi there! I'm a full-stack software engineer with experience in developing web applications and a passion for solving complex problems.
 
-I'm a Software Engineer working at MindPetal Software Solutions, prior to this I worked at Outco a startup in San Francisco. 
+I have expertise in several programming languages, including JavaScript, Python, and C++. My strong understanding of front-end technologies like HTML, CSS, and React, as well as back-end technologies such as Node.js and Express, allow me to create interactive and dynamic web applications.
 
-Having a good habit of writing clean and documented code, I love working on complex problems using code. As a software engineer, I am language-agnostic, however, I am proficient in Python and JavaScript. 
+I have a track record of delivering high-quality projects on time and within budget. Whether it's working on an Agile team or leading a project independently, I have a proven ability to turn ideas into functional and user-friendly web applications.
 
-I believe that solving problems require critical thinking and problem-solving acumen such as breaking down the fundamentals using a design workflow.
+I'm constantly seeking new challenges and opportunities to improve my skills and stay up-to-date with the latest technologies and best practices. In my free time, you'll find me exploring open-source projects or contributing to my own.
+
+If you're looking for a driven and enthusiastic full-stack developer, look no further! Let's build something great together!
 
 
 <!--     
