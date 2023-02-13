@@ -40,6 +40,9 @@ If you're looking for a driven and enthusiastic full-stack developer, look no fu
   </a> 
 </p>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leahthompson01&show_icons=true&theme=dark" alt="leahthompson" /> 
+
+
 - :email: How to reach me: ajin.sunny@gmail.com 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ajinsunny" alt="sudnyeshtalekar" /> </p>
