@@ -1,10 +1,12 @@
-<!-- ![Software Engineering](https://github.com/ajinsunny/ajinsunny/blob/master/welcome.jpeg) -->
-
-<!--[![Ajin's github stats](https://github-readme-stats.vercel.app/api?username=ajinsunny)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinsunny&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) -->
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+</a>
 
 # Ajin Sunny
 
-Hi there! I'm a full-stack software engineer with experience in developing web applications and a passion for solving complex problems.
+Hi there! 👋
+
+I'm a full-stack software engineer with experience in developing web applications and a passion for solving complex problems.
 
 I have expertise in several programming languages, including JavaScript, Python, and C++. My strong understanding of front-end technologies like HTML, CSS, and React, as well as back-end technologies such as Node.js and Express, allow me to create interactive and dynamic web applications.
 
@@ -43,14 +45,20 @@ If you're looking for a driven and enthusiastic full-stack developer, look no fu
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ajinsunny&show_icons=true&theme=dark" alt="ajinsunny" /> 
 
 
-- :email: How to reach me: ajin.sunny@gmail.com 
+- :email: How to reach me: 
+    
+- 🔭 I’m currently working on a Fleet Management System
+- 🌱 I’m currently learning new technologies
+- 🤔 I’m looking for Full Stack Engineering positions
+- 💬 Ask me about PERN stack
+- 📫 How to reach me: ajin.sunny@gmail.com 
+- 😄 Pronouns: He/Him/His
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ajinsunny" alt="sudnyeshtalekar" /> </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ajinsunny/)  
-
-
-
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+</a>
 
 
 
