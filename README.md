@@ -4,6 +4,9 @@
 
 # Ajin Sunny
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ajin;I'm+a+Full+Stack+Engineer;Welcome!+ツ)
+
+
 Hi there! 👋
 
 I'm a full-stack software engineer with experience in developing web applications and a passion for solving complex problems.
@@ -41,6 +44,14 @@ If you're looking for a driven and enthusiastic full-stack developer, look no fu
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
 </p>
+
+<div> 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ajinsunny-229305d8956b53565aa866a7228180e7/"><img title="https://www.linkedin.com/in/ajinsunny-229305d8956b53565aa866a7228180e7/" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+  </p>
+</div>
+
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ajinsunny&show_icons=true&theme=dark" alt="ajinsunny" /> 
 
