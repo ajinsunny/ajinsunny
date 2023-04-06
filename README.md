@@ -4,7 +4,7 @@
 
 # Ajin Sunny
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ajin;I'm+a+Full+Stack+Engineer;Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Welcome!+ツ;Hi,+I'm+Ajin;I'm+a+Full+Stack+Engineer;)
 
 
 Hi there! 👋
