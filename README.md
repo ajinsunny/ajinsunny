@@ -56,7 +56,7 @@ If you're looking for a driven and enthusiastic full-stack developer, look no fu
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ajinsunny&show_icons=true&theme=dark" alt="ajinsunny" /> 
 
 
-- :email: How to reach me: 
+- :email: How to reach me: ajin.sunny@gmail.com
     
 - 🔭 I’m currently working on a Fleet Management System
 - 🌱 I’m currently learning new technologies
