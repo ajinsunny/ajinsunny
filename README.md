@@ -55,7 +55,7 @@ If you're looking for a driven and enthusiastic full-stack developer, look no fu
 </div> 
 
 
-- :email: How to reach me: ajin.sunny@gmail.com
+
     
 - 🔭 I’m currently working on a Fleet Management System
 - 🌱 I’m currently learning new technologies
