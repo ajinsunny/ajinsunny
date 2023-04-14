@@ -20,12 +20,6 @@ I'm constantly seeking new challenges and opportunities to improve my skills and
 If you're looking for a driven and enthusiastic full-stack developer, look no further! Let's build something great together!
 
 
-    
-<!-- ## &#x1f4c8; GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinsunny&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">   
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97814431/170081210-73593c53-48ce-4ad1-bd96-d370c124cc2c.png" alt="express" width="90" height="40"/>
@@ -53,7 +47,12 @@ If you're looking for a driven and enthusiastic full-stack developer, look no fu
 </div>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ajinsunny&show_icons=true&theme=dark" alt="ajinsunny" /> 
+<div align="center">
+  <br>
+  <a href="#">
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ajinsunny&show_icons=true&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+  </a>
+</div> 
 
 
 - :email: How to reach me: ajin.sunny@gmail.com
