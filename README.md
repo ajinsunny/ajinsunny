@@ -47,12 +47,7 @@ If you're looking for a driven and enthusiastic full-stack developer, look no fu
 </div>
 
 
-<div align="center">
-  <br>
-  <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ajinsunny&show_icons=true&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
-  </a>
-</div> 
+
 
 
 
