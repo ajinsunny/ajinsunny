@@ -47,12 +47,6 @@ If you're looking for a driven and enthusiastic full-stack developer, look no fu
 </div>
 
 
-
-
-
-
-    
-- 🔭 I’m currently working on a Fleet Management System
 - 🌱 I’m currently learning new technologies
 - 🤔 I’m looking for Full Stack Engineering positions
 - 💬 Ask me about PERN stack
