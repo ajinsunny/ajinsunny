@@ -22,9 +22,7 @@ If you're looking for a driven and enthusiastic full-stack developer, look no fu
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">   
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97814431/170081210-73593c53-48ce-4ad1-bd96-d370c124cc2c.png" alt="express" width="90" height="40"/>
-  </a> 
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" />
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
@@ -50,7 +48,7 @@ If you're looking for a driven and enthusiastic full-stack developer, look no fu
 - 🌱 I’m currently learning new technologies
 - 🤔 I’m looking for Full Stack Engineering positions
 - 💬 Ask me about PERN stack
-- 📫 How to reach me: ajin.sunny@gmail.com 
+- 📫 How to reach me: [Contact Me](https://www.ajinsunny.com/contact)
 - 😄 Pronouns: He/Him/His
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ajinsunny" alt="sudnyeshtalekar" /> </p>
