@@ -1,8 +1,10 @@
+
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
 
-# Ajin Sunny
+
+## Ajin Sunny
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Welcome!+ツ;)
 
@@ -43,7 +45,6 @@ If you're looking for a driven and enthusiastic full-stack developer, look no fu
     </a>
   </p>
 </div>
-
 
 - 🌱 I’m currently learning new technologies
 - 🤔 I’m looking for Full Stack Engineering positions
