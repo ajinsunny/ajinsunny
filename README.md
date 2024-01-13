@@ -19,7 +19,7 @@ I have a track record of delivering high-quality projects on time and within bud
 
 I'm constantly seeking new challenges and opportunities to improve my skills and stay up-to-date with the latest technologies and best practices. In my free time, you'll find me exploring open-source projects or contributing to my own.
 
-If you're looking for a driven and enthusiastic full-stack developer, look no further! Let's build something great together!
+If you're looking for a driven and enthusiastic full-stack developer, look no further! Let's build something great together
 
 
 <h3 align="center">Languages and Tools:</h3>
