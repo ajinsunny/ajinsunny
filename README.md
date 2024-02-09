@@ -46,11 +46,11 @@ If you're looking for a driven and enthusiastic full-stack developer, look no fu
   </p>
 </div>
 
-- 🌱 I’m currently learning new technologies
-- 🤔 I’m looking for Full Stack Engineering positions
-- 💬 Ask me about PERN stack
+- 🌱 I’m currently learning new technologies.
+- 🤔 I’m looking for Full Stack Engineering positions.
+- 💬 Ask me about PERN stack.
 - 📫 How to reach me: [Contact Me](https://www.ajinsunny.com/contact)
-- 😄 Pronouns: He/Him/His
+- 😄 Pronouns: He/Him/His.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ajinsunny" alt="sudnyeshtalekar" /> </p>
 
