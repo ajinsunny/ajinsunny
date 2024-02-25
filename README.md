@@ -11,7 +11,7 @@
 
 Hi! 👋
 
-I'm a full-stack software engineer with experience in developing web applications and a passion for solving complex problems.
+I'm a full-stack software engineer with experience in developing web applications and a passion for solving complex problems
 
 I have expertise in several programming languages, including JavaScript, Python, and C++. My strong understanding of front-end technologies like HTML, CSS, and React, as well as back-end technologies such as Node.js and Express, allow me to create interactive and dynamic web applications.
 
