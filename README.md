@@ -43,7 +43,7 @@ I'm a AI Infra engineer with experience in developing web applications and a pas
 
 - 🌱 I’m currently learning new technologies.
 - 🤔 I’m looking for Full Stack Engineering positions.
-- 💬 Ask me about PERN stack.
+- 💬 Ask me about AI.
 - 📫 How to reach me: [Contact Me](https://www.ajinsunny.com/contact)
 - 😄 Pronouns: He/Him/His.
 
