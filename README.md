@@ -11,7 +11,7 @@
 
 Hi! 👋
 
-I'm a full-stack software engineer with experience in developing web applications and a passion for solving complex problems.
+I'm a AI Infra engineer with experience in developing web applications and a passion for solving complex problems.
 
 
 
