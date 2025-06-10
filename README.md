@@ -45,7 +45,7 @@ I'm a Senior Software Engineer with Project Management experience in developing 
 - 🤔 I’m looking for Full Stack Engineering positions.
 - 💬 Ask me about AI.
 - 📫 How to reach me: [Contact Me](https://www.ajinsunny.com/contact)
-- 😄 Pronouns: He/Him/His.
+- 😄 Pronouns: He/Him/His
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ajinsunny" alt="sudnyeshtalekar" /> </p>
 
